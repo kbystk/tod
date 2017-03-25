@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "name": "tod",
+  "description": "todo",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/kbystk/tod.git",
+  "author": "jigsaw(http://jgs.me)",
+  "license": "MIT"
+}
