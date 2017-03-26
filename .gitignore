@@ -1,0 +1,3 @@
+node_modules
+browserify-cache.json
+public/index.js

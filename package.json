@@ -5,5 +5,17 @@
   "main": "index.js",
   "repository": "ssh://git@github.com/kbystk/tod.git",
   "author": "jigsaw(http://jgs.me)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "browserify": "^14.1.0",
+    "browserify-incremental": "^3.1.1",
+    "firebase": "^3.7.3",
+    "firebase-tools": "^3.5.0",
+    "immutable": "^3.8.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-redux": "^5.0.3",
+    "redux": "^3.6.0",
+    "redux-thunk": "^2.2.0"
+  }
 }
